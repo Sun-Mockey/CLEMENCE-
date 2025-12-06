@@ -20,7 +20,7 @@
   
 [![DAVINCS-MD Demo Video](https://img.shields.io/badge/▶️-WATCH_INTRO_VIDEO-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
   
-*Click the button above to see DAVINCS-MD in action!*
+*Click the button above to see CGM-XMD in action!*
 
 </div>
 
