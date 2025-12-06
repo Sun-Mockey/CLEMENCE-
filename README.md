@@ -1,15 +1,15 @@
-<h1 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🌟 WELCOME TO DAVINCS-MD 🌟</h1>
+<h1 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🌟 WELCOME TO CGM-XMD TECH 🌟</h1>
 <h3 align="center" style="color: #1BAFBA; font-weight: bold;">The Ultimate WhatsApp Bot Experience
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=3500&pause=800&color=FF6347&center=true&width=900&height=80&lines=YOUR+ULTIMATE+WHATSAPP+SOLUTION;POWERED+BY+DAVINCS+TECH;UNMATCHED+SPEED+AND+RELIABILITY;START+EXPERIENCING+TODAY!" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=3500&pause=800&color=FF6347&center=true&width=900&height=80&lines=YOUR+ULTIMATE+WHATSAPP+SOLUTION;POWERED+BY+CGM-XMD+TECH;UNMATCHED+SPEED+AND+RELIABILITY;START+EXPERIENCING+TODAY!" alt="Typing Animation"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/xbrltv.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+  <img src="https://files.catbox.moe/kfk7x0.jpg" alt="CGM-XMD TECH Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
 
@@ -18,7 +18,7 @@
 ## 🎥 **Video Introduction**
 <div align="center">
   
-[![DAVINCS-MD Demo Video](https://img.shields.io/badge/▶️-WATCH_INTRO_VIDEO-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![CGM-XMD TECH Demo Video](https://img.shields.io/badge/▶️-WATCH_INTRO_VIDEO-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
   
 *Click the button above to see CGM-XMD in action!*
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔥 **Why Choose DAVINCS-MD?**
+## 🔥 **Why Choose CGM-XMD TECH?**
 <div align="center">
   
 | Feature | Description |
@@ -42,10 +42,9 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <a href="https://github.com/9Wish882/DAVINCS-MD">
+  <a href="https://github.com/9Wish882/CGM-XMD">
     <img src="https://github-readme-stats.vercel.app/api?username=9Wish882&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=9Wish882&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400"/>
-  </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=9Wish882&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400"/ </a>
 </p>
 
 ---
@@ -54,18 +53,18 @@
 <div align="center">
 
 ### 1️⃣ **Fork & Star**
-[![Fork](https://img.shields.io/github/forks/9Wish882/DAVINCS-MD?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/DAVINCS-MD/fork)
-[![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/DAVINCS-MD)
+[![Fork](https://img.shields.io/github/forks/9Wish882/CGM-XMD TECH?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/CGM-XMD TECH/fork)
+[![Star](https://img.shields.io/github/stars/9Wish882/CGM-XMD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/CGM-XMD)
 
 just tap the ☝️fork to fork and star ✨ button to give star ⭐ this repository 
 
 ### 2️⃣ **Get your Session ID 👇here**
-[![GET SESSION ID](https://img.shields.io/badge/GET_SESSION_ID-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white&labelColor=FF6347)](https://davincs-id3.onrender.com/)
+[![GET SESSION ID](https://img.shields.io/badge/GET_SESSION_ID-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white&labelColor=FF6347)](https://cgm-id3.onrender.com/)
 
 𝐑𝐞𝐦𝐞𝐦𝐛𝐞𝐫 𝐭𝐨 𝐜𝐨𝐩𝐲 𝐢𝐭 , 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐧𝐞𝐞𝐝 𝐢𝐭 𝐝𝐮𝐫𝐢𝐧𝐠 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
 
 ### 3️⃣ **Deploy Now!**
-[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD)
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/9Wish882/CGM-XMD)
 
 </div>
 
@@ -84,10 +83,10 @@ just tap the ☝️fork to fork and star ✨ button to give star ⭐ this reposi
 
 ## 🌐 **Connect With Us**
 <p align="center">
-  <a href="https://davincs-online.netlify.app">
+  <a href="https://Cgm-online.netlify.app">
     <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-1BAFBA?style=for-the-badge&logo=google-chrome&logoColor=white" width="220">
   </a>
-  <a href="mailto:support@davincs.com">
+  <a href="mailto:support@cgm.com">
     <img src="https://img.shields.io/badge/📧_EMAIL_SUPPORT-FF6347?style=for-the-badge&logo=mail.ru&logoColor=white" width="220">
   </a>
 </p>
