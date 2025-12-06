@@ -54,7 +54,7 @@
 
 ### 1️⃣ **Fork & Star**
 [![Fork](https://img.shields.io/github/forks/9Wish882/CGM-XMD TECH?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/CGM-XMD TECH/fork)
-[![Star](https://img.shields.io/github/stars/9Wish882/CGM-XMD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/CGM-XMD)
+[![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/DAVINCS-MD)
 
 just tap the ☝️fork to fork and star ✨ button to give star ⭐ this repository 
 
@@ -64,7 +64,7 @@ just tap the ☝️fork to fork and star ✨ button to give star ⭐ this reposi
 𝐑𝐞𝐦𝐞𝐦𝐛𝐞𝐫 𝐭𝐨 𝐜𝐨𝐩𝐲 𝐢𝐭 , 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐧𝐞𝐞𝐝 𝐢𝐭 𝐝𝐮𝐫𝐢𝐧𝐠 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
 
 ### 3️⃣ **Deploy Now!**
-[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/9Wish882/CGM-XMD)
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/9Wish882/DAVINCS-MD)
 
 </div>
 
@@ -83,7 +83,7 @@ just tap the ☝️fork to fork and star ✨ button to give star ⭐ this reposi
 
 ## 🌐 **Connect With Us**
 <p align="center">
-  <a href="https://Cgm-online.netlify.app">
+  <a href="https://davincs-online.netlify.app">
     <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-1BAFBA?style=for-the-badge&logo=google-chrome&logoColor=white" width="220">
   </a>
   <a href="mailto:support@cgm.com">
